@@ -5,7 +5,6 @@ site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook: default
-  bookdown::pdf_book: default
 ---
 
 # Course Description
@@ -17,9 +16,10 @@ Bye.
 
 # Assignments
 
-dgjkndfkg
+Checking
 
 
 # M
 
 I see
+
