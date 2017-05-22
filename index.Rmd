@@ -5,7 +5,6 @@ site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook
-output_dir: "~/Documents/github/epsy-8251/"
 ---
 
 # Course Description
@@ -17,7 +16,7 @@ Bye.
 
 # Assignments
 
-Checking. Interesting.
+Checking. Interesting. ah.
 
 
 # M
