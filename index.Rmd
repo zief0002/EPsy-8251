@@ -20,7 +20,7 @@ Bye. Ok
 
 Checking. Interesting. ah.
 
-Let's try a link: [Syllabus](https://github.com/zief0002/epsy-8251/blob/master/F16-8251-Syllabus-Section-01.pdf)
+Let's try a link: [Syllabus](https://github.com/zief0002/epsy-8251/blob/master/F16-8251-Syllabus-Section-01.pdf?raw=true)
 
 
 
