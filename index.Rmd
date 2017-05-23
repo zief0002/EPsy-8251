@@ -1,20 +1,64 @@
 ---
 title: "EPsy 8251"
-author: "Andrew Zieffler"
+author: ""
 site: bookdown::bookdown_site
 documentclass: book
-output: bookdown::gitbook
-output_dir: "~/Documents/github/epsy-8251/"
+output: 
+  bookdown::gitbook:
+    split_by: section
+    config:
+      toc:
+        collapse: subsection
 ---
 
-Can you write stuff before? Nope.
 
-# Course Description {-}
 
-Hi.
+# Welcome {-}
 
-Bye. Ok
+Welcome to Andy's EPsy 8251 website. This site is intended to complement the [course syllabus]((https://github.com/zief0002/epsy-8251/blob/master/s17-8251-syllabus.pdf?raw=true)) by serving as an organizational hub for the course. Here you will be able to access course materials such as readings, notes, assignments, and data sets. It also includes helpful links and resources for each of the course topics.
 
+<br />
+
+### Office Hours {-}
+
+Andy Zieffler ([zief0002@umn.edu](mailto:zief0002@umn.edu?Subject=EPsy%208251)) <br />
+Tuesday 9:30AM&ndash;10:30AM (and by appointment) <br />
+[Education Sciences Building 178](http://campusmaps.umn.edu/education-sciences-building)
+
+<br />
+
+### Downloading Materials {-}
+
+You can download all of the course materials from the [Github repository](https://github.com/zief0002/epsy-8251/). Or, you can simply [click this link](https://github.com/zief0002/epsy-8251/archive/master.zip) to download a ZIP file of all the materials. Individual files can also be downloaded from the Course Resources page. 
+
+<br />
+
+### R and RStudio {-}
+
+The course uses R and RStudio. First download and install R from [http://www.r-project.org/](http://www.r-project.org/). Then download and install RStudio from [http://www.rstudio.org/](http://www.rstudio.org/).
+
+
+
+# Course Resources {-}
+
+
+### Syllabus {-}
+
+- [Spring 2017 Syllabus](https://github.com/zief0002/epsy-8251/blob/master/s17-8251-syllabus.pdf?raw=true)
+
+
+<br /><br />
+
+### Data Sets {-}
+
+- [beauty.csv](https://github.com/zief0002/epsy-8251/blob/master/data/beauty.csv?raw=true)
+- [mnSchools.csv](https://github.com/zief0002/epsy-8251/blob/master/data/mnSchools.csv?raw=true)
+- [movies.csv](https://github.com/zief0002/epsy-8251/blob/master/data/movies.csv?raw=true)
+- [regional-colleges.csv](https://github.com/zief0002/epsy-8251/blob/master/data/regional-colleges.csv?raw=true)
+- [riverside.csv](https://github.com/zief0002/epsy-8251/blob/master/data/riverside.csv?raw=true)
+
+
+<br /><br />
 
 # Assignments {-}
 
@@ -25,7 +69,19 @@ Let's try a link: [Syllabus](https://github.com/zief0002/epsy-8251/blob/master/F
 
 
 
-# M {-}
+# Course Topics {-}
 
-I see
+
+## Introduction to R and RStudio {-}
+
+To prepare for class:
+
+- Install R and RStudio on your computer.
+- Watch the video [R for Starters: R and R Studio Workspace](https://www.youtube.com/watch?v=uKyQyfenfvM)
+
+<br />
+
+Here are other R and RStudio resources you may want to explore:
+
+- [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
 
