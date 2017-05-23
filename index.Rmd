@@ -1,5 +1,5 @@
 ---
-title: "EPsy 8251"
+title: ""
 author: ""
 site: bookdown::bookdown_site
 documentclass: book
@@ -13,11 +13,16 @@ output:
 
 
 
-# Welcome {-}
+# EPsy 8251 (Fall 2017) {-}
 
-![Einstein](img/wet-einstein.png)
 
-Welcome to Andy's EPsy 8251 website. This site is intended to complement the [course syllabus]((https://github.com/zief0002/epsy-8251/blob/master/s17-8251-syllabus.pdf?raw=true)) by serving as an organizational hub for the course. Here you will be able to access course materials such as readings, notes, assignments, and data sets. It also includes helpful links and resources for each of the course topics.
+```{r out.width="85%", echo=FALSE, fig.align='center'}
+knitr::include_graphics("img/wet-einstein.png")
+```
+
+<br />
+
+Welcome to Andy's EPsy 8251: Methods in Data Analysis for Educational Research I website. This site is intended to complement the [course syllabus]((https://github.com/zief0002/epsy-8251/blob/master/s17-8251-syllabus.pdf?raw=true)) by serving as an organizational hub for the course. Here you will be able to access course materials such as readings, notes, assignments, and data sets. It also includes helpful links and resources for each of the course topics.
 
 <br />
 
