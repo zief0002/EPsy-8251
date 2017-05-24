@@ -110,7 +110,7 @@ To prepare for class:
 
 <br />
 
-Here are other R and RStudio resources you may want to explore:
+Here are other ggplot2 resources you may want to explore:
 
 - [ggplot2 Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf)
 - [ggplot2 Extensions](http://www.ggplot2-exts.org/index.html)
@@ -118,5 +118,72 @@ Here are other R and RStudio resources you may want to explore:
 - Wickham, H. (2010). [A layered grammar of graphics.](http://vita.had.co.nz/papers/layered-grammar.pdf) <i>Journal of Computational and Graphical Statistics, 19</i>(1), 3&ndash;28.
 
 
+## Data Wrangling with dplyr {-}
 
+
+To prepare for class:
+
+- Read the [dplyr Vignette](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
+
+<br />
+
+Here are other dplyr resources you may want to explore:
+
+- [dplyr Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+-[Data Wrangling with R and RStudio](https://github.com/rstudio/webinars/blob/master/05-Data-Wrangling-with-R-and-RStudio/wrangling-webinar.pdf)
+
+
+## Simple Linear Regression: Description {-}
+
+To prepare for class:
+
+- Read Lewis-Beck &amp; Lewis-Beck (Chap. 1)
+
+<br />
+
+Here are other resources you may want to explore:
+
+- [Guess the Correlation Game](http://guessthecorrelation.com/)
+
+
+## Simple Linear Regression: Inference {-}
+
+To prepare for class:
+
+- Read Lewis-Beck &amp; Lewis-Beck (Chap. 2)
+
+<br />
+
+Here are other resources you may want to explore:
+
+- [Dance of the p-values](https://www.youtube.com/watch?v=ez4DgdurRPg)
+
+
+## Multiple Regression {-}
+
+To prepare for class:
+
+- Read Lewis-Beck &amp; Lewis-Beck (Chap. 3)
+
+<br />
+
+Here are other resources you may want to explore:
+
+- [Confounding Variables](http://www.icpsr.umich.edu/icpsrweb/instructors/setups2008/exercises/notes/confounding.jsp)
+
+
+
+## Regression Assumptions {-}
+
+To prepare for class:
+
+- Re-read Lewis-Beck &amp; Lewis-Beck (Chap. 2)
+
+<br />
+
+Here are other resources you may want to explore:
+
+- [Visualizing Residuals](https://drsimonj.svbtle.com/visualising-residuals)
+
+                            
 
