@@ -56,6 +56,14 @@ The course uses R and RStudio. First download and install R from [http://www.r-p
 
 <br /><br />
 
+### Textbook {-}
+
+Some of the required course textbooks are available via the University of Minnesota library.
+
+- [Applied regression: An introduction](http://primo.lib.umn.edu/TWINCITIES:mncat_discovery:UMN_ALMA21533776460001701)
+
+<br /><br />
+
 ### Data Sets {-}
 
 - [beauty.csv](https://github.com/zief0002/epsy-8251/blob/master/data/beauty.csv?raw=true)
@@ -99,14 +107,15 @@ To prepare for class:
 Here are other R and RStudio resources you may want to explore:
 
 - [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
+- [R for Data Science](http://r4ds.had.co.nz/)
 
 
 ## Plotting with ggplot2 {-}
 
-To prepare for class:
+To prepare for class, watch the videos:
 
-- Watch the video [Plotting with ggplot: Part 1](https://www.youtube.com/watch?v=HeqHMM4ziXA)
-- Watch the video [Plotting with ggplot: Part 2](https://www.youtube.com/watch?v=n8kYa9vu1l8)
+- [Plotting with ggplot: Part 1](https://www.youtube.com/watch?v=HeqHMM4ziXA)
+- [Plotting with ggplot: Part 2](https://www.youtube.com/watch?v=n8kYa9vu1l8)
 
 <br />
 
@@ -121,9 +130,9 @@ Here are other ggplot2 resources you may want to explore:
 ## Data Wrangling with dplyr {-}
 
 
-To prepare for class:
+To prepare for class, read:
 
-- Read the [dplyr Vignette](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
+- [dplyr Vignette](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 
 <br />
 
@@ -135,9 +144,9 @@ Here are other dplyr resources you may want to explore:
 
 ## Simple Linear Regression: Description {-}
 
-To prepare for class:
+To prepare for class, read:
 
-- Read Lewis-Beck &amp; Lewis-Beck (Chap. 1)
+- Lewis-Beck &amp; Lewis-Beck (Chap. 1)
 
 <br />
 
@@ -148,9 +157,9 @@ Here are other resources you may want to explore:
 
 ## Simple Linear Regression: Inference {-}
 
-To prepare for class:
+To prepare for class, read:
 
-- Read Lewis-Beck &amp; Lewis-Beck (Chap. 2)
+- Lewis-Beck &amp; Lewis-Beck (Chap. 2)
 
 <br />
 
@@ -161,9 +170,9 @@ Here are other resources you may want to explore:
 
 ## Multiple Regression {-}
 
-To prepare for class:
+To prepare for class, read:
 
-- Read Lewis-Beck &amp; Lewis-Beck (Chap. 3)
+- Lewis-Beck &amp; Lewis-Beck (Chap. 3)
 
 <br />
 
@@ -175,9 +184,9 @@ Here are other resources you may want to explore:
 
 ## Regression Assumptions {-}
 
-To prepare for class:
+To prepare for class, re-read:
 
-- Re-read Lewis-Beck &amp; Lewis-Beck (Chap. 2)
+- Lewis-Beck &amp; Lewis-Beck (Chap. 2)
 
 <br />
 
@@ -189,10 +198,10 @@ Here are other resources you may want to explore:
 
 ## Categorical Predictors {-}
 
-To prepare for class:
+To prepare for class, read:
 
-- Read [What is Dummy Coding?](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/dummy.htm)
-- Read [What is Effect Coding?](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/effect.htm)
+- [What is Dummy Coding?](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/dummy.htm)
+- [What is Effect Coding?](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/effect.htm)
 
 <br />
 
@@ -200,26 +209,39 @@ Here are other resources you may want to explore:
 
 - [fiveThirtyEight: p-Hacking](http://fivethirtyeight.com/features/science-isnt-broken/#part3)
 - Gelman, A., Hill, J., &amp; Yajima, M. (2012). [Why we (usually) don’t have to worry about multiple comparisons.](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf) <i>Journal of Research on Educational Effectiveness, 5,</i> 189&ndash;211.
+- [Regression with dummy variables](https://www.lib.umn.edu/get?url=http://methods.sagepub.com%2Fbook%2Fregression-with-dummy-variables)
 
 
 ## Interaction Models {-}
 
-To prepare for class:
+To prepare for class, read:
 
-- Read ...
+- Brambor, T., Clark, W. R., &amp; Golder, M. (2006). [Understanding interaction models: Improving empirical analyses.](http://mattgolder.com/files/research/pa_final.pdf) *Political Analysis, 14*, 63&ndash;82. doi:10.1093/pan/mpi014
 
 
 ## Nonlinearity: Polynomial Models {-}
 
 To prepare for class:
 
-- Read ...
+- Read [Math is Fun: Quadratic Equations](https://www.mathsisfun.com/algebra/quadratic-equation.html)
+- Watch the video [Polynomial Regression (Coursera)](https://www.coursera.org/learn/ml-regression/lecture/hMhl1/polynomial-regression)
+
+
+<br />
+
+Here are other resources you may want to explore:
+
+- [Math is Fun: Polynomials](https://www.mathsisfun.com/algebra/polynomials.html)
 
 
 ## Nonlinearity: Log-Transformations {-}
 
 To prepare for class:
 
-- Read ...
+- Read through [Interpreting log-transformed predictors/outcomes](http://www.cazaar.com/ta/econ113/interpreting-beta)
 
-     
+<br />
+
+Here are other resources you may want to explore:
+
+- [Was the Nepal Earthquake Twice as Big as We Thought?](http://qz.com/394053/was-the-nepal-earthquake-twice-as-big-as-we-thought/)
