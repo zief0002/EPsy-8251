@@ -9,5 +9,9 @@
 ["simple-linear-regression-description.html", "Simple Linear Regression: Description", " Simple Linear Regression: Description To prepare for class: Read Lewis-Beck &amp; Lewis-Beck (Chap. 1) Here are other resources you may want to explore: Guess the Correlation Game "],
 ["simple-linear-regression-inference.html", "Simple Linear Regression: Inference", " Simple Linear Regression: Inference To prepare for class: Read Lewis-Beck &amp; Lewis-Beck (Chap. 2) Here are other resources you may want to explore: Dance of the p-values "],
 ["multiple-regression.html", "Multiple Regression", " Multiple Regression To prepare for class: Read Lewis-Beck &amp; Lewis-Beck (Chap. 3) Here are other resources you may want to explore: Confounding Variables "],
-["regression-assumptions.html", "Regression Assumptions", " Regression Assumptions To prepare for class: Re-read Lewis-Beck &amp; Lewis-Beck (Chap. 2) Here are other resources you may want to explore: Visualizing Residuals -->"]
+["regression-assumptions.html", "Regression Assumptions", " Regression Assumptions To prepare for class: Re-read Lewis-Beck &amp; Lewis-Beck (Chap. 2) Here are other resources you may want to explore: Visualizing Residuals "],
+["categorical-predictors.html", "Categorical Predictors", " Categorical Predictors To prepare for class: Read What is Dummy Coding? Read What is Effect Coding? Here are other resources you may want to explore: fiveThirtyEight: p-Hacking Gelman, A., Hill, J., &amp; Yajima, M. (2012). Why we (usually) don’t have to worry about multiple comparisons. Journal of Research on Educational Effectiveness, 5, 189–211. "],
+["interaction-models.html", "Interaction Models", " Interaction Models To prepare for class: Read … "],
+["nonlinearity-polynomial-models.html", "Nonlinearity: Polynomial Models", " Nonlinearity: Polynomial Models To prepare for class: Read … "],
+["nonlinearity-log-transformations.html", "Nonlinearity: Log-Transformations", " Nonlinearity: Log-Transformations To prepare for class: Read … -->"]
 ]

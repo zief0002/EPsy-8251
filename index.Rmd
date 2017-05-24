@@ -187,3 +187,39 @@ Here are other resources you may want to explore:
 
                             
 
+## Categorical Predictors {-}
+
+To prepare for class:
+
+- Read [What is Dummy Coding?](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/dummy.htm)
+- Read [What is Effect Coding?](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/effect.htm)
+
+<br />
+
+Here are other resources you may want to explore:
+
+- [fiveThirtyEight: p-Hacking](http://fivethirtyeight.com/features/science-isnt-broken/#part3)
+- Gelman, A., Hill, J., &amp; Yajima, M. (2012). [Why we (usually) don’t have to worry about multiple comparisons.](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf) <i>Journal of Research on Educational Effectiveness, 5,</i> 189&ndash;211.
+
+
+## Interaction Models {-}
+
+To prepare for class:
+
+- Read ...
+
+
+## Nonlinearity: Polynomial Models {-}
+
+To prepare for class:
+
+- Read ...
+
+
+## Nonlinearity: Log-Transformations {-}
+
+To prepare for class:
+
+- Read ...
+
+     
