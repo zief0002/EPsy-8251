@@ -78,6 +78,14 @@ Let's try a link: [Syllabus](https://github.com/zief0002/epsy-8251/blob/master/F
 
 # Course Topics {-}
 
+Here is a map of the topics we will cover in EPsy 8251.
+
+<br />
+
+```{r out.width="70%", echo=FALSE, fig.align='center'}
+knitr::include_graphics("img/epsy-8251-topics.png")
+```
+
 
 ## Introduction to R and RStudio {-}
 
@@ -91,4 +99,24 @@ To prepare for class:
 Here are other R and RStudio resources you may want to explore:
 
 - [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
+
+
+## Plotting with ggplot2 {-}
+
+To prepare for class:
+
+- Watch the video [Plotting with ggplot: Part 1](https://www.youtube.com/watch?v=HeqHMM4ziXA)
+- Watch the video [Plotting with ggplot: Part 2](https://www.youtube.com/watch?v=n8kYa9vu1l8)
+
+<br />
+
+Here are other R and RStudio resources you may want to explore:
+
+- [ggplot2 Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf)
+- [ggplot2 Extensions](http://www.ggplot2-exts.org/index.html)
+- [Data Stories podcast: ggplot2, R, and data toolmaking with Hadley Wickham](http://datastori.es/67-ggplot2-r-and-data-toolmaking-with-hadley-wickham/)
+- Wickham, H. (2010). [A layered grammar of graphics.](http://vita.had.co.nz/papers/layered-grammar.pdf) <i>Journal of Computational and Graphical Statistics, 19</i>(1), 3&ndash;28.
+
+
+
 
