@@ -58,9 +58,17 @@ The course uses R and RStudio. First download and install R from [http://www.r-p
 
 ### Textbook {-}
 
-Some of the required course textbooks are available via the University of Minnesota library.
+There are two textbooks for the course. Links are provided when the book is available via the University of Minnesota library.
 
-- [Applied regression: An introduction](http://primo.lib.umn.edu/TWINCITIES:mncat_discovery:UMN_ALMA21533776460001701)
+<center><div style="display:inline-block; margin-top:20px; margin-bottom: 20px;"/>
+<img src="img/applied-regression-book.png" height="186px" style="-webkit-transform: rotate(-7deg);" />
+<img src="img/presenting-findings-book.png" height="186px" style="-webkit-transform: rotate(7deg);" />
+</div></center>
+
+- [Required] Lewis-Beck, C., &amp; Lewis-Beck, M. (2016). [*Applied regression: An introduction* (2nd ed.).](http://primo.lib.umn.edu/TWINCITIES:mncat_discovery:UMN_ALMA21533776460001701)  Thousand Oaks, CA: Sage.
+- [Optional] Nicol, A. A., & Pexman, P. M. (2010). *Presenting your findings: A practical guide to creating tables* (6th ed.). Washington, DC: American Psychological Association.
+
+
 
 <br /><br />
 
